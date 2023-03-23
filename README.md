@@ -11,10 +11,11 @@
   <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
 <hr>
-<div>
-  <h3>Pré-visualização</h3>
-  <a href="https://vmedeiros-projeto-android.vercel.app/" target="_blank">Confira aqui a aplicação</a>
-  <div>
-     <img width="600px" src="./imagens/demonstracao.png" alt="Imagem de demonstração">
-  </div>
-</div>
+
+ <h3>Pré-visualização</h3>
+ <p>
+   <a href="https://vmedeiros-projeto-android.vercel.app/" target="_blank">Confira aqui a aplicação</a>
+ </p>
+ <div align="center">
+   <img width="600" src="./imagens/demonstracao.png" alt="Imagem de demonstração da aplicação">
+ </div>
