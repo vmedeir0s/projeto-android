@@ -13,5 +13,5 @@
 <div>
   <h3>Pré-visualização</h3>
   <a href="https://vmedeiros-projeto-android.vercel.app/" target="_blank">Confira aqui a aplicação</a>
-  <img src="./imagens/demonstracao.png" alt="Imagem de demonstração">
+  <img width="600px" src="./imagens/demonstracao.png" alt="Imagem de demonstração">
 </div>
